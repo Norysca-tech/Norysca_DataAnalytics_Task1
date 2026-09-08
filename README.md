@@ -20,3 +20,5 @@ Clean a raw retail sales/customer dataset and turn it into an analysis-ready wor
 
 ## Tools
 Microsoft Excel — Tables, Conditional Formatting, Pivot Tables, Pivot Charts, formula-based analysis
+## Note
+GitHub's in-browser preview may not render Pivot Tables/charts correctly — please download the file and open in Excel to view the full workbook (Pivot_Category, Pivot_Region, Pivot_Monthly tabs and all charts).
