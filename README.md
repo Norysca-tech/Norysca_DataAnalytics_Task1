@@ -50,3 +50,39 @@ Microsoft Excel — Pivot Tables, Pivot Charts, Conditional Formatting, advanced
 ## Note
 GitHub's in-browser preview may not render Pivot Tables/charts correctly — please download the file and open in Excel to view the full workbook (Pivot_CatRegion, Pivot_Segment, Pivot_Month, Pivot_Quarter tabs and all charts).
 
+
+
+# Data Analytics Task 3 — Data Visualization & Business Intelligence Dashboard
+
+## Objective
+Turn the analyzed retail sales dataset into a one-page, interactive Business Intelligence dashboard that helps decision-makers quickly understand performance, trends, and where to act.
+
+## Workflow
+- **Data** — cleaned dataset with Segment, Month, and Quarter columns
+- **KPI_Summary** — Total Sales, Total Orders, Total Customers, Average Order Value, Sales Growth %, Top Category/Region
+- **Visualizations** — supporting bar, pie, and line charts for Category, Region, Monthly, Quarterly, and Segment performance
+- **Dashboard** — one-page view: 6 KPI cards, 3 live PivotCharts (Category × Region, Segment, Monthly Trend), Top/Bottom Performers summary
+- **Insights** — trends, best/worst performers, customer patterns, and 5 recommendations
+
+## Interactivity
+- **Slicers** (Region, Segment) and a **Timeline** (Transaction Date) are connected to all 3 PivotCharts on the Dashboard — clicking a slicer button filters every chart together, live.
+
+## Key Findings
+- Total sales: €1,552,071 across 11,971 transactions
+- Sales dipped 3.7% from 2022 to 2023, then grew 6.8% from 2023 to 2024
+- Top category: Butchers (€208,118) | Top region: Central (€314,780)
+- High Value customers (top third by spend) drive 37.8% of total revenue
+- Category and regional performance are both tightly clustered — no single area dominates
+
+## Recommendations
+1. Prioritize retention for the High Value customer segment
+2. Investigate the cause of the 2023 sales dip before scaling 2024 tactics further
+3. Focus investment on margin and customer segment value rather than chasing one "top" category or region
+4. Use the dashboard's monthly trend view to catch early signs of another dip
+5. Test whether discounting is driving real incremental volume, or just eroding margin
+
+## Tools
+Microsoft Excel — Pivot Tables, PivotCharts, Slicers, Timeline, Conditional Formatting, KPI dashboard design
+
+## Note
+GitHub's in-browser preview may not render Pivot Tables, PivotCharts, slicers, or the timeline correctly — please download the file and open in Excel to use the full interactive dashboard.
