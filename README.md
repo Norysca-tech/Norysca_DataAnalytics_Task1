@@ -50,7 +50,4 @@ Microsoft Excel — Pivot Tables, Pivot Charts, Conditional Formatting, advanced
 ## Note
 GitHub's in-browser preview may not render Pivot Tables/charts correctly — please download the file and open in Excel to view the full workbook (Pivot_CatRegion, Pivot_Segment, Pivot_Month, Pivot_Quarter tabs and all charts).
 
-## Tools
-Microsoft Excel — Tables, Conditional Formatting, Pivot Tables, Pivot Charts, formula-based analysis
-## Note
-GitHub's in-browser preview may not render Pivot Tables/charts correctly — please download the file and open in Excel to view the full workbook (Pivot_Category, Pivot_Region, Pivot_Monthly tabs and all charts).
+rrectly — please download the file and open in Excel to view the full workbook (Pivot_Category, Pivot_Region, Pivot_Monthly tabs and all charts).
